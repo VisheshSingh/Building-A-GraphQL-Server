@@ -7,22 +7,28 @@
       "age": 32
     },
     {
-      "id": 2,
-      "name": "Matt",
-      "email": "Matt@gmail.com",
-      "age": 28
-    },
-    {
       "id": 3,
       "name": "Kate Williams",
       "email": "kate@gmail.com",
-      "age": 25
+      "age": 50
     },
     {
       "id": 4,
       "name": "James Doe",
       "email": "james@gmail.com",
       "age": 37
+    },
+    {
+      "name": "kathy adams",
+      "email": "kathy@gmail.com",
+      "age": 20,
+      "id": 5
+    },
+    {
+      "name": "Brian Lovata",
+      "email": "brian@gmail.com",
+      "age": 20,
+      "id": 6
     }
   ]
 }
